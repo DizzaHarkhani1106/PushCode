@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dizza\\source\\repos\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions.csproj",
+      "projectUniqueName": "C:\\Users\\dizza\\Downloads\\Push Code\\PushCode\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions.csproj",
       "projectName": "GameWithSumpsAndCollisions",
-      "projectPath": "C:\\Users\\dizza\\source\\repos\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions.csproj",
+      "projectPath": "C:\\Users\\dizza\\Downloads\\Push Code\\PushCode\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions.csproj",
       "packagesPath": "C:\\Users\\dizza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dizza\\source\\repos\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\obj\\",
+      "outputPath": "C:\\Users\\dizza\\Downloads\\Push Code\\PushCode\\GameWithSumpsAndCollisions\\GameWithSumpsAndCollisions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dizza\\AppData\\Roaming\\NuGet\\NuGet.Config",

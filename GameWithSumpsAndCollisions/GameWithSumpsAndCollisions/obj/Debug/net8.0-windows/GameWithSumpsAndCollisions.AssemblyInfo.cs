@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameWithSumpsAndCollisions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9338087ac7615a3f3687fb6ca770e32801d589a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameWithSumpsAndCollisions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameWithSumpsAndCollisions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
