@@ -1,0 +1,16 @@
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\bin\Debug\net8.0-windows\GameWithSumpsAndCollisions.exe
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\bin\Debug\net8.0-windows\GameWithSumpsAndCollisions.deps.json
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\bin\Debug\net8.0-windows\GameWithSumpsAndCollisions.runtimeconfig.json
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\bin\Debug\net8.0-windows\GameWithSumpsAndCollisions.dll
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\bin\Debug\net8.0-windows\GameWithSumpsAndCollisions.pdb
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.Form1.resources
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.csproj.GenerateResource.cache
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.AssemblyInfoInputs.cache
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.AssemblyInfo.cs
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.csproj.CoreCompileInputs.cache
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.dll
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\refint\GameWithSumpsAndCollisions.dll
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.pdb
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\GameWithSumpsAndCollisions.genruntimeconfig.cache
+C:\Users\dizza\source\repos\GameWithSumpsAndCollisions\GameWithSumpsAndCollisions\obj\Debug\net8.0-windows\ref\GameWithSumpsAndCollisions.dll
